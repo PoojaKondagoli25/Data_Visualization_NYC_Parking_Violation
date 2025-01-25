@@ -1,0 +1,764 @@
+Issuing Agency,Violation count,Violation category,Violation Code
+1,2,Parking,17
+1,17,Parking,20
+1,2,Parking,21
+1,3,Parking,24
+1,42,Parking,27
+1,1,Others,40
+1,20,Vehicle number plate expiration,70
+1,26,Vehicle number plate expiration,71
+1,2,Vehicle number plate expiration,74
+1,1,Vehicle number plate expiration,83
+3,48,Others,9
+3,151,Parking,14
+3,1,Parking,15
+3,24,Parking,16
+3,151,Parking,17
+3,17,Parking,18
+3,200,Parking,19
+3,1225,Parking,20
+3,11,Parking,21
+3,30,Parking,27
+3,3,Parking,31
+3,37,Vehicle meter expiration,37
+3,689,Vehicle meter expiration,38
+3,5,Others,39
+3,147,Others,40
+3,3,Others,41
+3,15,Lane violation,45
+3,58,Parking,46
+3,91,Lane violation,48
+3,31,Lane violation,50
+3,34,Lane violation,51
+3,45,Lane violation,53
+3,1,Others,57
+3,13,Parking,60
+3,5,Traffice signals,61
+3,9,Others,62
+3,1,Lane violation,64
+3,10,Lane violation,66
+3,8,Lane violation,67
+3,29,Others,68
+3,23,Vehicle number plate expiration,70
+3,29,Vehicle number plate expiration,71
+3,7,Vehicle number plate expiration,74
+3,1,Vehicle number plate expiration,75
+3,39,Others,98
+4,7,Parking,14
+4,1,Parking,17
+4,9,Parking,21
+4,4,Parking,27
+4,34,Others,40
+4,1,Parking,46
+4,2,Lane violation,51
+4,9,Traffice signals,61
+4,1,Lane violation,67
+4,2,Others,68
+4,7,Vehicle number plate expiration,70
+4,6,Vehicle number plate expiration,71
+4,3,Vehicle number plate expiration,74
+4,2,Vehicle number plate expiration,75
+4,3,Others,78
+4,1,Vehicle number plate expiration,83
+4,20,Others,98
+8,11,Parking,13
+8,236,Parking,14
+8,14,Parking,16
+8,105,Parking,17
+8,393,Parking,19
+8,115,Parking,20
+8,12,Parking,21
+8,3,Parking,22
+8,3,Parking,23
+8,31,Parking,24
+8,1,Parking,27
+8,825,Others,40
+8,1,Others,41
+8,113,Parking,46
+8,2,Traffice signals,49
+8,6,Lane violation,50
+8,38,Lane violation,51
+8,1,Lane violation,52
+8,12,Lane violation,53
+8,1,Parking,60
+8,2,Others,62
+8,163,Lane violation,67
+8,33,Vehicle number plate expiration,70
+8,33,Vehicle number plate expiration,71
+8,48,Vehicle number plate expiration,74
+8,1,Vehicle number plate expiration,75
+8,1,Vehicle number plate expiration,83
+8,55,Others,98
+8,28,Others,99
+9,2,Others,6
+9,1,Others,9
+9,1,Traffice signals,10
+9,34,Parking,14
+9,7,Parking,16
+9,2,Parking,17
+9,20,Parking,19
+9,10,Parking,20
+9,16,Parking,21
+9,4,Parking,24
+9,1,Parking,27
+9,2,Vehicle meter expiration,38
+9,142,Others,40
+9,8,Others,41
+9,58,Parking,46
+9,8,Lane violation,48
+9,8,Lane violation,50
+9,17,Lane violation,51
+9,1,Parking,60
+9,1,Lane violation,66
+9,12,Lane violation,67
+9,17,Vehicle number plate expiration,70
+9,10,Vehicle number plate expiration,71
+9,1,Vehicle number plate expiration,73
+9,404,Vehicle number plate expiration,74
+9,6,Vehicle number plate expiration,75
+9,5,Parking,77
+9,42,Others,78
+9,2,Vehicle number plate expiration,82
+9,3,Vehicle number plate expiration,83
+9,12,Others,85
+9,114,Others,98
+9,35,Others,99
+A,1,Others,9
+A,3,Traffice signals,10
+A,1659,Parking,14
+A,10,Parking,16
+A,5,Parking,17
+A,66,Parking,19
+A,134,Parking,20
+A,36,Parking,21
+A,1,Parking,23
+A,74,Parking,27
+A,5,Parking,31
+A,2,Others,39
+A,5,Others,40
+A,12,Others,41
+A,5,Lane violation,45
+A,52,Parking,46
+A,1,Lane violation,51
+A,1,Lane violation,53
+A,2,Others,62
+A,7,Lane violation,67
+A,7,Others,68
+A,121,Vehicle number plate expiration,70
+A,181,Vehicle number plate expiration,71
+A,45,Vehicle number plate expiration,74
+A,1,Parking,87
+A,4,Others,99
+B,19,Parking,14
+B,6,Parking,17
+B,11,Parking,20
+B,1,Parking,24
+B,1,Vehicle meter expiration,34
+B,1,Others,40
+B,1,Parking,46
+B,2,Others,98
+C,2,Others,9
+C,2,Traffice signals,10
+C,163,Parking,14
+C,9,Parking,17
+C,34,Parking,19
+C,10,Parking,20
+C,11,Parking,21
+C,12,Parking,27
+C,1,Parking,33
+C,2,Vehicle meter expiration,37
+C,3,Vehicle meter expiration,38
+C,370,Others,40
+C,395,Parking,46
+C,1,Lane violation,48
+C,28,Lane violation,50
+C,9,Lane violation,51
+C,16,Lane violation,53
+C,2,Parking,60
+C,24,Lane violation,67
+C,26,Others,68
+C,29,Vehicle number plate expiration,70
+C,22,Vehicle number plate expiration,71
+C,28,Vehicle number plate expiration,74
+C,11,Vehicle number plate expiration,75
+C,3,Others,78
+C,1,Parking,87
+C,1,Lane violation,96
+C,83,Others,98
+C,4,Others,99
+E,6,Parking,14
+E,3,Parking,20
+E,1,Others,40
+E,1,Vehicle number plate expiration,70
+E,2,Others,98
+F,15,Others,9
+F,1,Traffice signals,10
+F,290,Parking,14
+F,1,Parking,16
+F,114,Parking,17
+F,2,Parking,19
+F,9,Parking,20
+F,7,Parking,21
+F,2,Parking,24
+F,2,Parking,27
+F,1,Parking,31
+F,68,Others,40
+F,1,Others,41
+F,17,Parking,46
+F,31,Lane violation,51
+F,9,Lane violation,67
+F,1,Vehicle number plate expiration,70
+F,1,Vehicle number plate expiration,71
+F,4,Vehicle number plate expiration,74
+F,1,Vehicle number plate expiration,75
+F,1,Others,98
+G,1,Others,9
+G,2,Parking,13
+G,21,Parking,14
+G,2,Parking,16
+G,2,Parking,18
+G,14,Parking,19
+G,3,Parking,22
+G,5,Parking,23
+G,22,Others,40
+G,2,Others,41
+G,20,Parking,46
+G,2,Lane violation,50
+G,2,Lane violation,67
+G,5,Vehicle number plate expiration,70
+G,4,Vehicle number plate expiration,71
+G,1,Others,98
+G,1,Others,99
+H,1,Parking,20
+J,43,Parking,17
+J,1,Parking,20
+J,1,Others,41
+J,1,Parking,46
+K,1,Others,3
+K,83,Others,9
+K,363,Traffice signals,10
+K,33,Parking,13
+K,2530,Parking,14
+K,1,Parking,15
+K,63,Parking,16
+K,241,Parking,17
+K,2,Parking,18
+K,238,Parking,19
+K,5921,Parking,20
+K,117,Parking,21
+K,4,Parking,22
+K,17,Parking,24
+K,428,Parking,27
+K,4,Parking,31
+K,1,Parking,33
+K,1,Vehicle meter expiration,34
+K,10,Vehicle meter expiration,37
+K,17,Vehicle meter expiration,38
+K,497,Others,39
+K,276,Others,40
+K,75,Others,41
+K,319,Lane violation,45
+K,228,Parking,46
+K,25,Lane violation,48
+K,2,Traffice signals,49
+K,48,Lane violation,50
+K,1671,Lane violation,51
+K,1,Lane violation,52
+K,303,Lane violation,53
+K,45,Others,54
+K,2,Others,56
+K,1,Parking,59
+K,17,Parking,60
+K,4,Traffice signals,61
+K,264,Others,62
+K,1761,Lane violation,63
+K,7,Lane violation,65
+K,87,Lane violation,66
+K,157,Lane violation,67
+K,684,Others,68
+K,1,Vehicle meter expiration,69
+K,110,Vehicle number plate expiration,70
+K,82,Vehicle number plate expiration,71
+K,2,Vehicle number plate expiration,73
+K,160,Vehicle number plate expiration,74
+K,4,Vehicle number plate expiration,75
+K,4,Parking,77
+K,1,Others,78
+K,2,Others,79
+K,1,Vehicle number plate expiration,82
+K,10,Others,85
+K,1,Parking,87
+K,1,Others,91
+K,1,Others,93
+K,1,Lane violation,96
+K,464,Others,98
+K,17,Others,99
+L,809,Parking,14
+L,2,Parking,16
+L,1,Parking,17
+L,4,Parking,19
+L,327,Parking,20
+L,803,Parking,21
+L,1,Parking,27
+L,23,Others,40
+L,1,Others,41
+L,16,Parking,46
+L,7,Lane violation,51
+L,18,Lane violation,53
+L,1,Traffice signals,61
+L,1,Lane violation,66
+L,6,Lane violation,67
+L,11,Vehicle number plate expiration,70
+L,7,Vehicle number plate expiration,71
+L,1,Vehicle number plate expiration,74
+L,4,Others,98
+M,1,Parking,4
+M,4,Others,9
+M,24,Traffice signals,10
+M,923,Parking,14
+M,1,Parking,15
+M,43,Parking,16
+M,231,Parking,17
+M,62,Parking,18
+M,1173,Parking,19
+M,84,Parking,20
+M,39,Parking,21
+M,4,Parking,24
+M,12,Parking,27
+M,32,Parking,31
+M,2,Vehicle meter expiration,34
+M,4,Vehicle meter expiration,37
+M,24,Vehicle meter expiration,38
+M,94,Others,40
+M,19,Others,41
+M,1,Lane violation,45
+M,130,Parking,46
+M,29,Lane violation,50
+M,19,Lane violation,51
+M,1,Traffice signals,61
+M,2,Others,62
+M,1,Lane violation,66
+M,29,Lane violation,67
+M,8,Others,68
+M,62,Vehicle number plate expiration,70
+M,64,Vehicle number plate expiration,71
+M,2,Vehicle number plate expiration,72
+M,19,Vehicle number plate expiration,74
+M,1,Vehicle number plate expiration,75
+M,1,Others,78
+M,61,Others,79
+M,5,Parking,87
+M,2,Others,89
+M,16,Others,98
+M,5,Others,99
+N,2,Others,6
+N,1,Others,9
+N,1,Traffice signals,10
+N,1,Parking,11
+N,26,Parking,14
+N,3,Parking,17
+N,18,Parking,19
+N,68,Parking,20
+N,12,Parking,21
+N,26,Parking,27
+N,127,Others,40
+N,4,Others,41
+N,73,Parking,46
+N,8,Lane violation,50
+N,27,Lane violation,51
+N,1,Parking,60
+N,1,Lane violation,63
+N,1,Lane violation,66
+N,6,Lane violation,67
+N,1,Others,68
+N,46,Vehicle number plate expiration,70
+N,90,Vehicle number plate expiration,71
+N,3,Vehicle number plate expiration,72
+N,37,Vehicle number plate expiration,74
+N,2,Parking,77
+N,27,Others,78
+N,4,Vehicle number plate expiration,83
+N,41,Others,98
+N,369,Others,99
+O,1,Traffice signals,10
+O,96,Parking,14
+O,1759,Parking,17
+O,132,Parking,19
+O,181,Parking,20
+O,14,Parking,21
+O,2,Parking,31
+O,1,Vehicle meter expiration,37
+O,214,Others,40
+O,29,Others,41
+O,67,Lane violation,45
+O,113,Parking,46
+O,1,Lane violation,48
+O,17,Lane violation,50
+O,9,Lane violation,51
+O,1,Lane violation,52
+O,4,Lane violation,53
+O,1,Traffice signals,61
+O,32,Lane violation,67
+O,25,Vehicle number plate expiration,70
+O,13,Vehicle number plate expiration,71
+O,9,Vehicle number plate expiration,74
+O,1,Vehicle number plate expiration,75
+O,3,Others,76
+O,1,Parking,87
+O,38,Others,98
+P,2,Others,3
+P,29,Parking,4
+P,9,Lane violation,5
+P,1488,Others,6
+P,4,Traffice signals,8
+P,202,Others,9
+P,452,Traffice signals,10
+P,90,Parking,11
+P,1,Lane violation,12
+P,102,Parking,13
+P,24983,Parking,14
+P,4,Parking,15
+P,1388,Parking,16
+P,4186,Parking,17
+P,407,Parking,18
+P,10362,Parking,19
+P,11984,Parking,20
+P,4599,Parking,21
+P,62,Parking,22
+P,101,Parking,23
+P,959,Parking,24
+P,17,Parking,25
+P,19,Parking,26
+P,508,Parking,27
+P,1,Parking,29
+P,1,Parking,30
+P,491,Parking,31
+P,20,Parking,33
+P,6,Vehicle meter expiration,34
+P,4,Vehicle meter expiration,35
+P,100,Vehicle meter expiration,37
+P,182,Vehicle meter expiration,38
+P,24,Others,39
+P,54744,Others,40
+P,2889,Others,41
+P,1,Vehicle meter expiration,42
+P,1,Vehicle meter expiration,43
+P,2,Vehicle meter expiration,44
+P,350,Lane violation,45
+P,36048,Parking,46
+P,8,Parking,47
+P,1835,Lane violation,48
+P,18,Traffice signals,49
+P,4770,Lane violation,50
+P,7554,Lane violation,51
+P,114,Lane violation,52
+P,402,Lane violation,53
+P,12,Others,54
+P,4,Others,55
+P,101,Others,56
+P,8,Others,57
+P,12,Others,58
+P,8,Parking,59
+P,291,Parking,60
+P,319,Traffice signals,61
+P,235,Others,62
+P,145,Lane violation,63
+P,3,Lane violation,64
+P,17,Lane violation,65
+P,742,Lane violation,66
+P,5953,Lane violation,67
+P,550,Others,68
+P,7,Vehicle meter expiration,69
+P,6415,Vehicle number plate expiration,70
+P,5983,Vehicle number plate expiration,71
+P,21,Vehicle number plate expiration,72
+P,46,Vehicle number plate expiration,73
+P,9625,Vehicle number plate expiration,74
+P,510,Vehicle number plate expiration,75
+P,12,Others,76
+P,277,Parking,77
+P,12910,Others,78
+P,183,Others,79
+P,49,Others,80
+P,29,Others,81
+P,15,Vehicle number plate expiration,82
+P,725,Vehicle number plate expiration,83
+P,18,Others,84
+P,861,Others,85
+P,3,Parking,87
+P,6,Others,89
+P,45,Others,90
+P,205,Others,91
+P,57,Others,92
+P,14,Others,93
+P,72,Lane violation,96
+P,24,Others,97
+P,45475,Others,98
+P,3316,Others,99
+Q,44,Parking,17
+Q,1,Parking,27
+Q,4,Others,41
+Q,47,Others,62
+Q,6,Others,68
+Q,4,Vehicle number plate expiration,70
+Q,1,Vehicle number plate expiration,71
+R,33,Traffice signals,10
+R,534,Parking,14
+R,5,Parking,17
+R,108,Parking,18
+R,1756,Parking,19
+R,94,Parking,20
+R,7,Parking,21
+R,1,Parking,31
+R,7,Others,40
+R,12,Others,41
+R,250,Parking,46
+R,1,Lane violation,50
+R,1,Others,68
+R,11,Vehicle number plate expiration,70
+R,1,Vehicle number plate expiration,71
+R,1,Vehicle number plate expiration,74
+R,68,Others,79
+R,15,Others,98
+S,937,Others,6
+S,223,Traffice signals,10
+S,16,Parking,11
+S,13,Parking,13
+S,10969,Parking,14
+S,517,Parking,16
+S,1069,Parking,17
+S,113,Parking,18
+S,588,Parking,19
+S,5454,Parking,20
+S,494362,Parking,21
+S,58,Parking,22
+S,1,Parking,25
+S,1,Parking,26
+S,6,Parking,27
+S,16,Parking,33
+S,122,Vehicle meter expiration,35
+S,2,Others,39
+S,9740,Others,40
+S,1,Others,41
+S,1,Vehicle meter expiration,44
+S,215,Lane violation,45
+S,4856,Parking,46
+S,4,Parking,47
+S,475,Lane violation,48
+S,16,Traffice signals,49
+S,1261,Lane violation,50
+S,1847,Lane violation,51
+S,129,Lane violation,52
+S,495,Lane violation,53
+S,15,Others,56
+S,1,Parking,59
+S,23,Parking,60
+S,320,Traffice signals,61
+S,18,Others,62
+S,17595,Lane violation,66
+S,554,Lane violation,67
+S,19,Others,68
+S,3,Vehicle number plate expiration,70
+S,799,Vehicle number plate expiration,71
+S,13,Vehicle number plate expiration,72
+S,1154,Vehicle number plate expiration,74
+S,23,Vehicle number plate expiration,75
+S,64,Parking,77
+S,4019,Others,78
+S,3267,Others,80
+S,27,Vehicle number plate expiration,82
+S,375,Vehicle number plate expiration,83
+S,1862,Others,85
+S,5,Parking,87
+S,1,Others,91
+S,3,Others,92
+S,1,Others,97
+S,685,Others,98
+S,1091,Others,99
+T,91,Others,1
+T,72,Others,3
+T,423,Parking,4
+T,2467,Others,6
+T,62,Traffice signals,8
+T,5912,Others,9
+T,68264,Traffice signals,10
+T,5713,Parking,11
+T,17822,Parking,13
+T,779861,Parking,14
+T,225162,Parking,16
+T,113269,Parking,17
+T,28765,Parking,18
+T,239692,Parking,19
+T,624817,Parking,20
+T,1479699,Parking,21
+T,10227,Parking,22
+T,720,Parking,25
+T,1877,Parking,26
+T,1480,Parking,27
+T,18,Parking,29
+T,109,Parking,30
+T,249305,Parking,31
+T,6,Parking,32
+T,7166,Parking,33
+T,135,Vehicle meter expiration,35
+T,284273,Vehicle meter expiration,37
+T,1162056,Vehicle meter expiration,38
+T,492,Others,39
+T,585439,Others,40
+T,34166,Vehicle meter expiration,42
+T,10,Vehicle meter expiration,44
+T,634,Lane violation,45
+T,300122,Parking,46
+T,74825,Parking,47
+T,63215,Lane violation,48
+T,195,Traffice signals,49
+T,82871,Lane violation,50
+T,36150,Lane violation,51
+T,875,Lane violation,52
+T,38519,Lane violation,53
+T,845,Others,54
+T,1,Others,55
+T,1607,Others,56
+T,8,Others,58
+T,52,Parking,59
+T,2518,Parking,60
+T,9290,Traffice signals,61
+T,2925,Others,62
+T,1,Lane violation,63
+T,6879,Lane violation,64
+T,11253,Lane violation,66
+T,753,Lane violation,67
+T,19625,Others,68
+T,223883,Vehicle meter expiration,69
+T,401799,Vehicle number plate expiration,70
+T,596177,Vehicle number plate expiration,71
+T,7990,Vehicle number plate expiration,72
+T,4938,Vehicle number plate expiration,73
+T,232520,Vehicle number plate expiration,74
+T,16231,Vehicle number plate expiration,75
+T,3648,Others,76
+T,3838,Parking,77
+T,26359,Others,78
+T,416,Others,79
+T,421,Others,80
+T,23588,Vehicle number plate expiration,82
+T,5624,Vehicle number plate expiration,83
+T,67929,Others,84
+T,3704,Others,85
+T,1,Others,86
+T,3143,Parking,87
+T,674,Others,89
+T,117,Others,91
+T,3,Others,92
+T,15,Lane violation,96
+T,1,Others,97
+T,3591,Others,98
+T,1,Others,99
+U,1,Others,9
+U,4,Parking,14
+U,7,Parking,17
+U,67,Parking,20
+U,12,Parking,21
+U,13,Parking,24
+U,3,Parking,27
+U,2,Others,41
+U,9,Lane violation,45
+U,1,Parking,46
+U,3,Lane violation,51
+U,9,Lane violation,53
+U,3,Traffice signals,61
+U,7,Others,62
+U,28,Lane violation,63
+U,265,Others,68
+U,4,Vehicle number plate expiration,70
+U,6,Vehicle number plate expiration,71
+U,9,Vehicle number plate expiration,74
+U,2,Vehicle number plate expiration,83
+U,2,Others,98
+U,4,Others,99
+V,589009,Lane violation,5
+V,681732,Traffice signals,7
+V,168105,Lane violation,12
+V,5820769,Traffice signals,36
+V,432,Others,57
+W,7,Parking,14
+W,214,Parking,17
+W,1,Parking,19
+W,76,Parking,20
+W,1,Parking,24
+W,1,Parking,27
+W,1,Others,40
+W,3,Others,41
+W,9,Parking,46
+W,15,Lane violation,51
+W,2,Others,68
+W,3,Vehicle number plate expiration,70
+W,5,Vehicle number plate expiration,71
+W,3,Vehicle number plate expiration,74
+W,5,Others,98
+X,1,Parking,4
+X,21,Others,9
+X,5,Traffice signals,10
+X,180,Parking,14
+X,9,Parking,16
+X,216,Parking,17
+X,11,Parking,18
+X,186,Parking,19
+X,526,Parking,20
+X,96,Parking,21
+X,11,Parking,24
+X,7,Parking,27
+X,1,Parking,31
+X,3,Vehicle meter expiration,37
+X,235,Vehicle meter expiration,38
+X,7,Others,39
+X,63,Others,40
+X,12,Others,41
+X,4,Lane violation,45
+X,60,Parking,46
+X,13,Lane violation,48
+X,7,Lane violation,50
+X,6,Lane violation,51
+X,24,Lane violation,53
+X,1,Parking,60
+X,1,Traffice signals,61
+X,4,Others,62
+X,2,Lane violation,63
+X,421,Lane violation,66
+X,6,Lane violation,67
+X,38,Others,68
+X,13,Vehicle number plate expiration,70
+X,7,Vehicle number plate expiration,71
+X,3,Vehicle number plate expiration,74
+X,1,Others,79
+X,1,Vehicle number plate expiration,82
+X,9,Others,98
+Y,8,Others,9
+Y,380,Parking,14
+Y,4,Parking,16
+Y,316,Parking,17
+Y,46,Parking,19
+Y,3174,Parking,20
+Y,40,Parking,21
+Y,12,Parking,24
+Y,97,Parking,27
+Y,5,Parking,33
+Y,3,Vehicle meter expiration,38
+Y,45,Others,40
+Y,41,Others,41
+Y,2,Lane violation,45
+Y,42,Parking,46
+Y,4,Traffice signals,49
+Y,5,Lane violation,50
+Y,39,Lane violation,51
+Y,14,Lane violation,53
+Y,1,Parking,60
+Y,3,Others,62
+Y,22,Lane violation,67
+Y,115,Others,68
+Y,44,Vehicle number plate expiration,70
+Y,22,Vehicle number plate expiration,71
+Y,14,Vehicle number plate expiration,74
+Y,3,Others,76
+Y,32,Others,98
+Z,4,Parking,17
